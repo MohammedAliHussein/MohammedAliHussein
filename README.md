@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>
+<p align="center">
   I'm [Mo]hammed-Ali Hussein
 </p>
 <!--
